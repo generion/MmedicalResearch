@@ -1,0 +1,5 @@
+{
+  "name": "Medical Research",
+  "description": "Yüklenen tıbbi belgelerden (PDF/JPEG) otomatik olarak hasta, muayene ve tanı bilgilerini ayrıştıran ve Excel formatına dönüştüren akıllı asistan.",
+  "requestFramePermissions": []
+}
